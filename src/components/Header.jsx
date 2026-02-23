@@ -7,7 +7,7 @@ const Header = () => {
 
   return (
     <div>
-      <nav className="mx-auto w-full px-4 sm:max-w-[640px] md:max-w-[768px] lg:max-w-[1024px] xl:max-w-[1161px] flex justify-between items-center mt-6 relative">
+      <nav className="mx-auto w-full px-4 sm:max-w-160 md:max-w-3xl lg:max-w-5xl xl:max-w-290.25 flex justify-between items-center mt-6 relative">
   
         <div>
           <img src={Logo} alt="Logo" />
